@@ -1,0 +1,3 @@
+for (x in 0:100){
+  sprintf("Este es el numero: %d", x)
+}
